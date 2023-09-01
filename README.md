@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 I’m @Assem35, an undergraduate computer engineer at E-JUST University. I'm passionate about technology, video games, and exploring new destinations around the world.
+👋 I’m Assem Saied ElQersh, an undergraduate computer engineer at E-JUST University. I'm passionate about technology, video games, and exploring new destinations around the world.
 
 🌱 Currently, I'm diving deep into the fascinating world of Machine Learning, working hard to turn my passion into expertise.
 

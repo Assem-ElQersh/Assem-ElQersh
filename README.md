@@ -8,4 +8,4 @@
 
 📫 You can contact me via email at assemsaid35@gmail.com or give me a call at +201111601002. Let's connect and create something awesome together!
 
-⚡ Let's Connect! 🚀 Learn more about me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/assemelqersh/) or on Twitter: [Twitter Profile](https://twitter.com/El_Qirsh)
+⚡ Let's Connect! 🚀 Learn more about me from [here](https://assem-elqersh.github.io/).

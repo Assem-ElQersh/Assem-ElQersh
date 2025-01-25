@@ -31,11 +31,11 @@
 <img align="left" alt="Kaggle" src="https://w7.pngwing.com/pngs/1002/482/png-transparent-kaggle-logos-and-brands-line-filled-icon.png" width="32" height="32">
 </a>
 
-<a href="https://medium.com/@assemelqirsh" target="blank">
+<a href="https://medium.com/@assemelqersh" target="blank">
 <img align="left" alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/2048px-Medium_logo_Monogram.svg.png" width="32" height="32">
 </a>
 
-<a href="https://x.com/El_Qirsh" target="blank">
+<a href="https://x.com/AssemElQersh" target="blank">
 <img align="left" alt="Twitter" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png" width="32" height="32">
 </a>
 

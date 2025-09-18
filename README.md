@@ -9,6 +9,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Pseudo-Randomness](https://assemelqersh.medium.com/demystifying-pseudo-randomness-6398668b65e4?source=rss-23e5a7d2bd60------2)
+- [NumPyNuggets: Uncovering the Power of NumPy in Data Science](https://assemelqersh.medium.com/numpynuggets-uncovering-the-power-of-numpy-in-data-science-610409876880?source=rss-23e5a7d2bd60------2)
+- [Introduction to ALGORITHMS](https://assemelqersh.medium.com/introduction-to-algorithms-44aa4ea251b9?source=rss-23e5a7d2bd60------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -5,16 +5,23 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write             # REQUIRED for committing updates
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # recommended
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@assemelqersh"
-          max_post_count: 5
+          # Medium + LinkedIn (from secret). Multiple feeds are comma-separated.
+          feed_list: "https://medium.com/feed/@assemelqersh,${{ secrets.LINKEDIN_RSS }}"
+          max_post_count: 8
+          remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          # Improve reliability against strict servers/CDNs:
+          user_agent: "Mozilla/5.0"
+          accept_header: "application/rss+xml"
+          retry_count: 3
+          retry_wait_time: 3

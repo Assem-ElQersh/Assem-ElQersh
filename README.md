@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Assem-ElQersh</h1>
-<h3 align="center">A passionate AI Engineer from Egypt</h3>
+<h3 align="center">AI Engineer | Computer Vision, NLP, and Applied GenAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assem-elqersh&label=Profile%20views&color=0e75b6&style=flat" alt="assem-elqersh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=assem-elqersh" alt="assem-elqersh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/assemelqersh" target="blank"><img src="https://img.shields.io/twitter/follow/assemelqersh?logo=twitter&style=for-the-badge" alt="assemelqersh" /></a> </p>
+<p align="left">
+  Building production-style AI systems across healthcare, developer tooling, and real-time vision.
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,6 +15,26 @@
 - [NumPyNuggets: Uncovering the Power of NumPy in Data Science](https://assemelqersh.medium.com/numpynuggets-uncovering-the-power-of-numpy-in-data-science-610409876880?source=rss-23e5a7d2bd60------2)
 - [Introduction to ALGORITHMS](https://assemelqersh.medium.com/introduction-to-algorithms-44aa4ea251b9?source=rss-23e5a7d2bd60------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Featured Projects
+- **AIOps Brain (Local-First AI Operations Assistant)**  
+  https://github.com/Assem-ElQersh/ai-ops-brain
+- **RepoDigest (GitHub Repository Intelligence for LLMs)**  
+  https://github.com/Assem-ElQersh/repodigest
+- **MedFlow-V2 (AI-Powered Hospital Management System)**  
+  https://github.com/Assem-ElQersh/MedFlow-V2
+- **Object Detection App (TensorFlow.js + React)**  
+  https://github.com/Assem-ElQersh/Object-Detection-App-2
+- **Real-time Face Detection System**  
+  https://github.com/Assem-ElQersh/Real-time-Face-Detection
+- **NewsLies (Arabic Fake News Detection)**  
+  https://github.com/Assem-ElQersh/NewsLies
+
+### Core Stack
+- **Languages:** Python, JavaScript, SQL, C++
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, AraBERT
+- **Vision:** OpenCV, MediaPipe, TensorFlow.js
+- **Backend:** FastAPI, REST APIs, SQLite, MySQL, Docker
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

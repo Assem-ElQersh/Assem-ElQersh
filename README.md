@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Assem-ElQersh</h1>
+
+<h1 align="center">
+⏳ I AM TAKING A BREAK CURRENTLY.  
+  
+Pausing all posts, messages, and distractions. It is time to focus purely on my self-discipline and my career. Be back when the work is done  
+</h1>h1>
+
 <h3 align="center">AI Engineer | Computer Vision, NLP, and Applied GenAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assem-elqersh&label=Profile%20views&color=0e75b6&style=flat" alt="assem-elqersh" /> </p>
